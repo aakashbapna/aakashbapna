@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aakashbapna
 - 👀 I’m interested in coding fun projects
-- 🌱 I’m currently learning RL
-- 💞️ I’m looking to collaborate on RL
 - 📫 How to reach me? aakash [at] live [dot] com
 
 <!---
